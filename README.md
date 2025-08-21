@@ -1,6 +1,8 @@
-## Hi there, I'm Daniel 👋
+## Hi there, I'm Daniel! 👋
 
-![Banner](https://drive.google.com/file/d/1pCA-9_tmwZmgKQEkjCWH9SydPiNyU-sP/view?usp=drivesdk)
+
+![Banner](https://raw.githubusercontent.com/danielmulangu/danielmulangu/main/assets/banner.jpg)
+
 
 ## About Me
 I'm a Software Engineer passionate about networking, cloud, and mobile apps.  
