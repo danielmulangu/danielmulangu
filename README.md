@@ -1,8 +1,8 @@
 ## Hi there, I'm Daniel! 👋
 
 
-![Banner](https://raw.githubusercontent.com/danielmulangu/danielmulangu/main/assets/banner.jpg)
-
+![Banner](https://github.com/danielmulangu/danielmulangu/blob/main/assets/banner.jpg)
+ 
 
 ## About Me
 I'm a Software Engineer passionate about networking, cloud, and mobile apps.  
