@@ -23,6 +23,10 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmulangu&layout=compact&theme=radical)
 
 
+## 📚 Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielmulangu&theme=radical)](https://git.io/streak-stats)
+
+
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/daniel-mulangu)
 - [Instagram](https://www.instagram.com/mr_mulangu)
