@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://drive.google.com/file/d/1pCA-9_tmwZmgKQEkjCWH9SydPiNyU-sP/view?usp=drivesdk) 
 
 ## About Me
 I'm a Software Engineer passionate about networking, cloud, and mobile apps.  
