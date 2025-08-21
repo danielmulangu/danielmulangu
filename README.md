@@ -59,7 +59,7 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 
 ## ⚡ Fun fact
 
-When I'm not coding, you’ll probably find me with anime/mangas, books, or thinking about my next challenge! 
+When I'm not coding or reaserching, you’ll probably find me with anime/mangas, books in hand, or thinking about my next challenge! 
 
 Thanks for stopping by! 🌟🍀👨🏽‍💻
   
