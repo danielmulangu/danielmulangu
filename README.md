@@ -13,8 +13,8 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 
 
 ## 🎓 Education
-- M.Sc. in Computer Science (Software Engineering) – University of Nebraska at Omaha
-- B.Sc. in Computer Engineering – Girne American University, Cyprus
+- M.Sc. in Computer Science (Software Engineering) – University of Nebraska at Omaha (Go Mavs!)
+- B.Sc. in Computer Engineering – Girne American University, Cyprus (Go Eagles! 🦅)
   
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmulangu&show_icons=true&theme=radical)
