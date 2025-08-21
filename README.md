@@ -27,6 +27,11 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielmulangu&theme=radical)](https://git.io/streak-stats)
 
 
+[![Daniel’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmulangu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=danielmulangu&color=blue)
+
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/daniel-mulangu)
 - [Instagram](https://www.instagram.com/mr_mulangu)
