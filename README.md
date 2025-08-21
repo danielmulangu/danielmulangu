@@ -48,8 +48,6 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
   
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmulangu&show_icons=true&theme=radical)
 
 ## 📚 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmulangu&layout=compact&theme=radical)
@@ -79,4 +77,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmulangu&show_icons=true&theme=radical)
+
 -->
