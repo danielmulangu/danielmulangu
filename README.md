@@ -15,14 +15,10 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 - 📖 Favorite Quote: “Quality must be enforced, otherwise it won't happen. We programmers must be required to write tests, otherwise we won't do it.” Yegor Bugayenko
 
 
-## 🎓 Education
-- M.Sc. in Computer Science (Software Engineering) – University of Nebraska at Omaha (Go Mavs!)
-- B.Sc. in Computer Engineering – Girne American University, Cyprus (Go Eagles! 🦅)
-
 ## 🛠️ Tech Stack
 
 **Networking & Simulation:**  
-NS-3, 5G-LENA, TARA, Wi-Fi/5G-NR, Rate Adaptation, C++  
+NS-3, 5G-LENA, Wi-Fi/5G-NR, Rate Adaptation, C++  
 ![NS-3](https://img.shields.io/badge/NS--3-blue?style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Mobile Development:**  
@@ -66,6 +62,9 @@ Thanks for stopping by! 🌟🍀👨🏽‍💻
 
 <!--
 **danielmulangu/danielmulangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- M.Sc. in Computer Science (Software Engineering) – University of Nebraska at Omaha (Go Mavs!)
+- B.Sc. in Computer Engineering – Girne American University, Cyprus (Go Eagles! 🦅)
 
 Here are some ideas to get you started:
 
