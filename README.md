@@ -4,7 +4,7 @@
 ![Banner](https://github.com/danielmulangu/danielmulangu/blob/main/assets/banner.jpg)
  
 
-## About Me
+## About Me 😄
 I'm a Software Engineer passionate about networking, cloud, and mobile apps.  
 Currently working on **NS-3 research** and building **Flutter apps and Native iOS apps**.
 
