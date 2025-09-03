@@ -49,6 +49,10 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmulangu&layout=compact&theme=radical)
 
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmulangu&show_icons=true&theme=radical)
+
+
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/daniel-mulangu)
 - [Instagram](https://www.instagram.com/mr_mulangu)
