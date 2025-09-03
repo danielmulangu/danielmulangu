@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel! 👋
 
 
-![Banner](https://github.com/danielmulangu/danielmulangu/blob/main/assets/banner.jpg)
+
  
 
 ## About Me 😄
@@ -61,6 +61,8 @@ Thanks for stopping by! 🌟🍀👨🏽‍💻
   
 
 <!--
+
+![Banner](https://github.com/danielmulangu/danielmulangu/blob/main/assets/banner.jpg)
 **danielmulangu/danielmulangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🎓 Education
 - M.Sc. in Computer Science (Software Engineering) – University of Nebraska at Omaha (Go Mavs!)
