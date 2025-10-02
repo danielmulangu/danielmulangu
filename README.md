@@ -4,7 +4,7 @@
 
  
 
-## About Me 😄
+## About Me  😄
 I'm a Software Engineer passionate about networking, cloud, and mobile apps.  
 Currently working on **NS-3 research** and building **Flutter apps and Native iOS apps**.
 
@@ -51,7 +51,7 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 
 ## ⚡ Fun fact about me
 
-When I'm not coding or reaserching, you’ll probably find me with anime/mangas, books in hand, or thinking about my next challenge! 
+When I'm not coding or researching, you’ll probably find me with anime/manga, books in hand, or thinking about my next challenge! 
 
 Thanks for stopping by! 🌟🍀👨🏽‍💻
   
