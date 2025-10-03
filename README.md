@@ -44,8 +44,6 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 
-## 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmulangu&layout=compact&theme=radical)
   
 
 ## 🌐 Connect with me
