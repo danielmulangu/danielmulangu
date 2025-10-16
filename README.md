@@ -10,7 +10,7 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 
 - 🔭 I’m currently working on: a Flutter App.
 - 🌱 Learning: Advanced Wireless Networking, Firebase, DevOps.
-- 💬 Ask me about: **NS-3, Flutter, Firebase, Swift, Cloud, Java, and C++( Kinda of a Jack of all trades, haha :) )**
+- 💬 Ask me about: **NS-3, Flutter, Firebase, Swift, Cloud, Java, and C++( Kinda of a Jack of all trades, haha ;) )**
 - 📫 Reach me at: daniel.mulangu@icloud.com
 - 📖 Favorite Quote: “Quality must be enforced, otherwise it won't happen. We programmers must be required to write tests, otherwise we won't do it.” Yegor Bugayenko
 
