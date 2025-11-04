@@ -19,7 +19,8 @@ Currently working on **NS-3 research** and building **Flutter apps and Native iO
 
 **Networking & Simulation:**  
 NS-3, NS3-AI, 5G-LENA (5G-NR), Wi-Fi, Rate Adaptation, C++  
-![NS-3](https://img.shields.io/badge/NS--3-blue?style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![NS-3](https://img.shields.io/badge/NS--3-blue?style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Puthon](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 **Mobile Development:**  
 Flutter, Firebase, SwiftUI, Dart, Swift 
