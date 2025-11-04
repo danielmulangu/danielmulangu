@@ -49,7 +49,7 @@ Python, Java, C++, C, Machine Learning (GA, Neural Networks)
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/daniel-mulangu)
-- [Instagram](https://www.instagram.com/mr_mulangu)
+ // - [Instagram](https://www.instagram.com/mr_mulangu)
 
 ## ⚡ Fun fact about me
 
